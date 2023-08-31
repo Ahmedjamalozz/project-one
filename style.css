@@ -111,5 +111,21 @@ input{
     height: 30px;
     width: 345px;
 }
+.pic{
+position: absolute;
+    background-image: url(https://img.freepik.com/premium-photo/3d-render-gold-russian-ruble-coins-with-world-globe-isolated-white-background-russian-ruble-banknotes_42071-3083.jpg);
+    height: 300px;
+    width: 500px;
+    background-repeat: none;
+    top: 220px;
+ 
+}
 
+h2{
+ position: relative;
+top: 200px;
+left: 10px;
+
+
+}
 
